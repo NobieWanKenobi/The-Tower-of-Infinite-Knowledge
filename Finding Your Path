@@ -1,0 +1,17 @@
+cedric/
+├── robot_thoughts/
+│ ├── real_boy.idea
+│ └── youtube_video.mp4
+│
+├── thank_you_drafts/
+│ ├── thank_you_toast.docx
+│ ├── thank_you_toast_v1.docx
+│ ├── thank_you_toast_v2.docx
+│ └── thank_you_toast_v2_Final.docx
+│
+├── fog_owl_computations.csv
+└── my_cool_drawing.png
+
+Find the path to Cedric's Youtube video.
+
+cedric\robot_thoughts\youtube_video.mp4
