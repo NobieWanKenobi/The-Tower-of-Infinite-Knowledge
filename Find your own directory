@@ -1,0 +1,4 @@
+How to find your directory:
+
+If your on Windows, use PowerShell. All you have to do is type in pwd and your path should show up!
+It should look something like this: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools
