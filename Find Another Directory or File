@@ -1,0 +1,17 @@
+In PowerShell, ls is a shortcut for the command Get-ChildItem. This is important, because ls is a command on other operating systems, such as Linux and Mac. The ls on those operating systems works differently to the ls in PowerShell, because the ls in PowerShell is actually Get-ChildItem! Keep this in mind if you move between operating systems.
+
+Open up PowerShell and type in ls. And pick a file! It should look like this:
+
+
+    Directory: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         7/25/2022   2:13 PM                Common7
+d-----         7/25/2022   2:13 PM                Licenses
+d-----         7/25/2022   2:13 PM                MSBuild
+d-----         7/25/2022   2:15 PM                SDK
+d-----         7/25/2022   2:14 PM                VC
+
+Now just pick a file and move onwards!
